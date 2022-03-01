@@ -1,2 +1,3 @@
-# git_practice
-Practicing gitbash/github
+#hello
+#hi
+#sup
